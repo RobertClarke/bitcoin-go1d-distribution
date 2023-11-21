@@ -23,6 +23,9 @@ btc_address = input("Bitcoin address for distribution: ")
 # Fetch block hash
 block_hash = get_block_hash(block_height)
 
+# Print the fetched block hash
+print(f"Fetched Block Hash: {block_hash}")
+
 # Read available numbers
 with open("available.txt", "r") as file:
     numbers = file.readlines()
