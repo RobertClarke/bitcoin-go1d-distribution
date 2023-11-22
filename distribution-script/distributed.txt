@@ -150,3 +150,7 @@ Bitcoin Go1d bar selected at random: 251
 Bitcoin block height for selection: 817893
 Bitcoin address: bc1qsx2uqm4ys0jtdpe5zk8z6txqjj7lkkwtj6d3yd
 
+Bitcoin Go1d bar selected at random: 160
+Bitcoin block height for selection: 817894
+Bitcoin address: bc1pgxne7ukda4gzcwzh4tqsegrrm9kevcf0l5uttuh2464fywfwnzsssrur5v
+
